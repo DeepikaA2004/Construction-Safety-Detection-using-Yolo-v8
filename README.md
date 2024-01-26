@@ -18,6 +18,10 @@ Construction sites present various safety challenges, and it is crucial to adopt
 
 - **Scalability**: The project can be extended to handle video streams and integrate with surveillance systems for continuous monitoring.
 
+## Output:
+
+![image](https://github.com/DeepikaA2004/Construction-Safety-Detection/assets/110418508/f4e6f5cd-8e74-439a-b427-523ffdbf9130)
+
 ## Conclusion:
 
 Enhancing construction site safety is paramount, and leveraging advanced technologies like object detection contributes significantly to achieving this goal. This project demonstrates the potential of combining YOLOv8 and Streamlit to create a user-friendly safety detection system. As technology continues to evolve, there is immense potential to further refine and expand the capabilities of this solution, making construction sites safer for workers and reducing the likelihood of accidents.
