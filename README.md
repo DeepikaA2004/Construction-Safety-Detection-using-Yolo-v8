@@ -1,4 +1,4 @@
-# Construction Safety Detection 
+# Construction Safety Detection using Yolov8
 
 ## Introduction
 
